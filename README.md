@@ -25,7 +25,7 @@ My primary focus lies in the intersection of web development and data analysis. 
 
 ## Upcoming Project
 
-I'm currently working on an exciting project that combines my love for web development and data analysis using React.js. Stay tuned for more updates!
+I'm currently working on an exciting project that combines my love for web development and data analysis. Stay tuned for more updates!
 
 ## Contact Information
 
