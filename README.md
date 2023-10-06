@@ -1,16 +1,38 @@
-### Hi there 👋
+# About Me
 
-<!--
-**fixveet/fixveet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋 I'm Novita Anggraini, currently pursuing a degree in Computer Science at Tanjungpura University. I'm passionate about both web development and data analysis, and I'm eager to dive into the exciting world of technology.
 
-Here are some ideas to get you started:
+## Academic Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **University:** Tanjungpura University
+- **Major:** Computer Science
+
+## Tech Interests
+
+My primary focus lies in the intersection of web development and data analysis. Here are the tools and languages I'm familiar with:
+
+- **Web Development:**
+  - HTML
+  - CSS
+  - JavaScript
+
+- **Programming Languages:**
+  - Python
+  - C++
+
+- **Database:**
+  - MySQL
+
+## Upcoming Project
+
+Currently, I'm working on an exciting project that combines my love for web development and data analysis. Stay tuned for updates on:
+
+## Contact Information
+
+Feel free to reach out for collaboration, discussions, or just a friendly chat:
+
+- **Email:** [novitanggraini90@gmail.com](mailto:novitanggraini90@gmail.com)
+
+## Let's Connect!
+
+Looking forward to connecting with fellow tech enthusiasts and exploring the possibilities of web development and data analysis! 🚀
